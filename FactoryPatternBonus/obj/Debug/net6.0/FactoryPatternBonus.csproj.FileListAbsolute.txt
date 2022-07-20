@@ -1,0 +1,15 @@
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\bin\Debug\net6.0\FactoryPatternBonus.exe
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\bin\Debug\net6.0\FactoryPatternBonus.deps.json
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\bin\Debug\net6.0\FactoryPatternBonus.runtimeconfig.json
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\bin\Debug\net6.0\FactoryPatternBonus.dll
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\bin\Debug\net6.0\FactoryPatternBonus.pdb
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\FactoryPatternBonus.csproj.AssemblyReference.cache
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\FactoryPatternBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\FactoryPatternBonus.AssemblyInfoInputs.cache
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\FactoryPatternBonus.AssemblyInfo.cs
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\FactoryPatternBonus.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\FactoryPatternBonus.dll
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\refint\FactoryPatternBonus.dll
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\FactoryPatternBonus.pdb
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\FactoryPatternBonus.genruntimeconfig.cache
+C:\Users\Travis\source\repos\FactoryPatternBonus\FactoryPatternBonus\obj\Debug\net6.0\ref\FactoryPatternBonus.dll
